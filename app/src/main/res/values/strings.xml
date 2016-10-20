@@ -1,0 +1,28 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Sample Sing in app</string>
+
+    <!-- Sign in/out actions-->
+    <string name="action_sign_out">Sign Out</string>
+    <string name="facebook_login_button_text">Facebook</string>
+    <string name="google_login_button_text">Google</string>
+
+
+    <!-- Dialogs -->
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_action_cancel">Cancel</string>
+    <string name="dialog_error_title">Sorry</string>
+
+    <string name="authentication_message">You have been signed out, please sign in again!</string>
+    <string name="error_message_play_services">Sorry, you need a device that supports Google Play Services to log in using Google account. Error message: </string>
+    <string name="google_play_not_enabled_toast_text">You need to enable Google play services in order to sign in with Google account</string>
+    <string name="sign_in_error_dialog_title">Sing in error</string>
+
+    <string name="no_internet_dialog_title">No Internet :/</string>
+    <string name="no_internet_dialog_message">Your device has no access to internet network, please turn it on before logging</string>
+
+    <!-- FACEBOOK AUTH ID-->
+    <string name="facebook_app_id">PASTE YOUR FACEBOOK APP ID HERE</string>
+
+
+</resources>

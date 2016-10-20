@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black_20p">#33000000</color>
+    <color name="primary">#02A8F3</color>
+    <color name="primary_dark">#0187c3</color>
+    <color name="accent">@color/primary</color>
+    <color name="background_dark">#012B3D</color>
+
+    <color name="bg_facebook_login">#3B5998</color>
+    <color name="bg_ripple_facebook_login">#40ffffff</color>
+    <color name="txt_facebook_login">#fffffe</color>
+
+
+    <color name="bg_google_login">#FFFFFF</color>
+    <color name="bg_ripple_google_login">#33000000</color>
+    <color name="txt_google_login">#90000000</color>
+</resources>
